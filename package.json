@@ -1,0 +1,23 @@
+{
+  "name": "Base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node connection.js"
+  },
+  "keywords": [],
+  "author": "Lezz DcodeR",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "baileys": "github:Tama-Ryuichi/Bail-TamaRYC",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "latest",
+    "awesome-phonenumber": "^2.64.0",
+    "chalk": "^4.1.2",
+    "axios": "^1.6.8",
+    "pino": "^7.0.5",
+    "crypto": "^1.0.1"
+  }
+}
