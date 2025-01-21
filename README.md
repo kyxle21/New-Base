@@ -1,6 +1,6 @@
 # New Base
 
-Ini adalah base script bot WhatsApp yang simple by Lezz DcodeR
+Ini adalah base script bot WhatsApp yang simple yang di buat oleh Lezz DcodeR
 
 Thx To:
 - Allah SWT
@@ -9,3 +9,5 @@ Thx To:
 - Lezz (Me)
 - Tama Ryu (Baileys)
 - And All Creator Script Bot WhatsApp 
+
+Please give me star
