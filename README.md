@@ -8,6 +8,6 @@ Thx To:
 - My Dady,My Momy, End My Family
 - Lezz (Me)
 - Tama Ryu (Baileys)
-- And All Creator Script Bot WhatsApp 
+- And All Developer WhatsApp Bot
 
 Please give me star
